@@ -1,11 +1,13 @@
 
 Set Up Git:
+cd /f (entering into particular folder)
 git config --global user.name "Your Name"
 git config --global user.email "youremail@domain.com"
 
 other commands
 git clone (url)
 git add (file names)
+git status
 git commit -m "(committed message)
 git push -u origin master
 git remote add origin master (url)

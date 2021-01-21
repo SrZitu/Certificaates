@@ -1,8 +1,8 @@
 
 Set Up Git:
 cd /f (entering into particular folder)
-git config --global user.name "Your Name"
-git config --global user.email "youremail@domain.com"
+git config --global user.name "SrZitu"
+git config --global user.email "zitu094@gmail.com"
 
 other commands
 git clone (url)
